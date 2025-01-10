@@ -1,0 +1,51 @@
+* {
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(29, 29, 97);
+    font-size: 50px;
+}
+
+
+h4 {
+    color: blueviolet;
+}
+
+ul{
+    font-size: 25px;
+}
+
+ol{
+    font-size: 20px;
+}
+
+.home {
+    text-align: end;
+    font-size: 20px;
+    background-color: rgba(127, 255, 212, 0.507);
+}
+
+.ingr {
+    color: aliceblue;
+    background-color: black;
+    font-size: 40;
+
+}
+
+.step {
+color:aquamarine;
+background-color: gray;
+font-size: 
+45px;
+
+}
+
+.odd {
+    color: rgb(0, 0, 141);
+}
+
+.even {
+   color: rgb(95, 0, 0); 
+}
